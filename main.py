@@ -270,7 +270,7 @@ class AppGUI():
         '''
         News tab
         '''
-        # news tab
+        
         tab_news = ttk.Frame(tab_control_master)
 
         tab_control_master.add(tab_news, text='News Portal')
